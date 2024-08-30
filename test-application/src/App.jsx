@@ -10,12 +10,11 @@ function App() {
     <>
       <NavBar />
       <h1>This is a test</h1>
-      <div className='todocomponent'>
-        <Card className='todolist' />
-        </div>
+      <p>Welcome to my react play ground<br></br>
+      This is where I learn react components and learn</p>
+      
       <Card />
-      <Card />
-      <Button />
+      
     </>
   )
 }

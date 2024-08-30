@@ -40,3 +40,9 @@
   background-color: rgb(53, 54, 60);
   color: blanchedalmond;
 }
+
+/*Card Component */
+
+.cardcomponents{
+  display: flex;
+}
