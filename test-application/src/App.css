@@ -45,4 +45,10 @@
 
 .cardcomponents{
   display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+    border: 2px solid black;
+    gap: 100px;
+    margin: auto;
+    padding: auto;
 }

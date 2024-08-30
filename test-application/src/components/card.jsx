@@ -17,15 +17,17 @@ function Card() {
             <p>A Simple On/Off Switch</p>
             <Button />
             </div>
-            
-             <div className="formcomponent">
-            <h1>A form that contacts my email</h1>
-            <p>A submission form that allows you to contact me</p>
-            <Button />
-        </div>
 
-        
+            
+            
+            <div className='emailcomponent'>
+              <h1>An email component to email me</h1>
+            <p>A form to contact me</p>
+            <Button />  
+
         </div>
+        </div>
+        
     )
 }
 
