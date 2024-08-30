@@ -1,5 +1,5 @@
 function Button() {
-    return <button className='btn'>Trying to place button</button>;
+    return <button className='btn'>button</button>;
 }
 
 export default Button;

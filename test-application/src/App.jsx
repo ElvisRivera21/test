@@ -10,10 +10,11 @@ function App() {
     <>
       <NavBar />
       <h1>This is a test</h1>
+      
+      <Card />
+      <Card />
+      <Card />
       <Button />
-      <Card />
-      <Card />
-      <Card />
     </>
   )
 }

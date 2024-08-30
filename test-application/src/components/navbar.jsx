@@ -7,9 +7,9 @@ function NavBar() {
         
             <div className='list'>
                 <ul>
-                    <li>about</li>
-                    <li>contact</li>
-                    <li>apps</li>
+                    <li className='link'>about</li>
+                    <li className='link'>contact</li>
+                    <li className="link">apps</li>
                 </ul>
             </div>
         </div>);
