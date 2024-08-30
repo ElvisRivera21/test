@@ -10,8 +10,9 @@ function App() {
     <>
       <NavBar />
       <h1>This is a test</h1>
-      
-      <Card />
+      <div className='todocomponent'>
+        <Card className='todolist' />
+        </div>
       <Card />
       <Card />
       <Button />
